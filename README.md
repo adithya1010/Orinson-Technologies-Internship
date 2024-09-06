@@ -1,4 +1,3 @@
-
 # Orinson-Technologies-Internship
 
 ## Week-1:
@@ -13,8 +12,10 @@
 3.  [https://github.com/alankbi/detecto/blob/master/docs/_static/dog_dataset.zip](https://github.com/alankbi/detecto/blob/master/docs/_static/dog_dataset.zip)
 -----
 **PPT:**
-https://1drv.ms/p/s!Am-eVTSjDSr6gvcqyXIJGRwFyMQVGQ?e=a82pZ4
------
-**Video:**
 
+https://1drv.ms/p/s!Am-eVTSjDSr6gvcqyXIJGRwFyMQVGQ?e=a82pZ4
+
+----
+
+**Video:**
 https://youtu.be/yDqGUDMOhY8
