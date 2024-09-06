@@ -12,6 +12,9 @@
 2. Detecto
 3. Matplotlib
 4. Torchvision
+5. Stackedit
+6. ScreenRec
+7. PowerPoint & OneDrive
 ----
 **References:**
 
