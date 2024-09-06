@@ -7,6 +7,12 @@
 **Develop a model for Object Detection in Images.Focus on accurately detecting and classifying objects and ensuring the model performs well across different scenarios.**
 
 -----
+**Tech Stack Used:**
+1. Google Colab
+2. Detecto
+3. Matplotlib
+4. Torchvision
+----
 **References:**
 
 1.  [https://analyticsindiamag.com/ai-mysteries/a-tutorial-on-building-custom-object-detection-models-using-detecto/](https://www.google.com/url?q=https%3A%2F%2Fanalyticsindiamag.com%2Fai-mysteries%2Fa-tutorial-on-building-custom-object-detection-models-using-detecto%2F)
