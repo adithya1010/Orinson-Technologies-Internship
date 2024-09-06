@@ -12,5 +12,6 @@
 2.  [https://towardsdatascience.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-713ba7f6c0fb](https://www.google.com/url?q=https%3A%2F%2Ftowardsdatascience.com%2Fbuild-a-custom-trained-object-detection-model-with-5-lines-of-code-713ba7f6c0fb)
 3.  [https://github.com/alankbi/detecto/blob/master/docs/_static/dog_dataset.zip](https://github.com/alankbi/detecto/blob/master/docs/_static/dog_dataset.zip)
 -----
-Video:
+**Video:**
+
 https://youtu.be/yDqGUDMOhY8
