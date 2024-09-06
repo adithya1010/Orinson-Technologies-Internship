@@ -2,7 +2,7 @@
 
 # Orinson-Technologies-Internship
 
-## Week-1:
+## Week-1️⃣:
 
 **Develop a model for Object Detection in Images.Focus on accurately detecting and classifying objects and ensuring the model performs well across different scenarios.**
 
@@ -19,6 +19,6 @@ https://1drv.ms/p/s!Am-eVTSjDSr6gvcqyXIJGRwFyMQVGQ?e=a82pZ4
 
 ----
 
-**Video:**
+**Video📺:**
 
 https://youtu.be/yDqGUDMOhY8
