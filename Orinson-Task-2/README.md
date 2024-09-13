@@ -13,7 +13,6 @@ Create a Simple Predictive Model using Iris dataset
 
 Project done with inputs from Microsoft's Copilot, GPT-4o mini and Google Gemini
 
-References are as below
 **References**:
 
  -  [https://www.analyticsvidhya.com/k-nearest-neighbors/](https://www.google.com/url?q=https%3A%2F%2Fwww.analyticsvidhya.com%2Fk-nearest-neighbors%2F)
