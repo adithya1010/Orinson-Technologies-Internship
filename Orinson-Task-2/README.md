@@ -46,8 +46,7 @@ Project done with inputs from Microsoft's Copilot, GPT-4o mini and Google Gemini
 **Steps involved:**
 
  
-
- 1.Dataset Loading and Preprocesing
+ 1. Dataset Loading and Preprocesing
  2. Training the model
  3. Predicting the labels
  4. Evaluating the model
